@@ -32,6 +32,7 @@
 - [hackerrank](https://simpleicons.org/?q=hackerrank)
 - [hackthebox](https://simpleicons.org/?q=hackthebox)
 - [instagram](https://feathericons.com/?query=instagram)
+- [itch.io](https://simpleicons.org/?q=itch.io)
 - [kaggle](https://simpleicons.org/?q=kaggle)
 - [keybase](https://simpleicons.org/?q=keybase)
 - [lastfm](https://simpleicons.org/?q=lastfm)
