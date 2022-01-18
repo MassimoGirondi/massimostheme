@@ -73,6 +73,7 @@
 - [unsplash](https://simpleicons.org/?q=unsplash)
 - [whatsapp](https://simpleicons.org/?q=whatsapp)
 - [xampp](https://simpleicons.org/?q=xampp)
+- [xda](https://simpleicons.org/?q=xda)
 - [xing](https://simpleicons.org/?q=xing)
 - [xmpp](https://simpleicons.org/?q=xmpp)
 - [ycombinator](https://simpleicons.org/?q=ycombinator)
