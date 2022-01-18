@@ -49,6 +49,7 @@
 - [opencollective](https://simpleicons.org/?q=opencollective)
 - [orcid](https://simpleicons.org/?q=orcid)
 - [patreon](https://simpleicons.org/?q=patreon)
+- [paypal](https://simpleicons.org/?q=paypal)
 - [peertube](https://simpleicons.org/?q=peertube)
 - [pinterest](https://simpleicons.org/?q=pinterest)
 - [pixelfed](https://github.com/pixelfed/pixelfed/blob/dev/public/img/pixelfed-icon-black.svg)
