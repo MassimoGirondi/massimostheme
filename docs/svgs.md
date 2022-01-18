@@ -28,6 +28,7 @@
 - [goodreads](https://simpleicons.org/?q=goodreads)
 - [googleplay](https://simpleicons.org/?q=googleplay)
 - [googlescholar](https://simpleicons.org/?q=googlescholar)
+- gpg
 - [hackerone](https://simpleicons.org/?q=hackerone)
 - [hackerrank](https://simpleicons.org/?q=hackerrank)
 - [hackthebox](https://simpleicons.org/?q=hackthebox)
@@ -47,6 +48,7 @@
 - [npm](https://simpleicons.org/?q=npm)
 - [opencollective](https://simpleicons.org/?q=opencollective)
 - [orcid](https://simpleicons.org/?q=orcid)
+- [patreon](https://simpleicons.org/?q=patreon)
 - [peertube](https://simpleicons.org/?q=peertube)
 - [pinterest](https://simpleicons.org/?q=pinterest)
 - [pixelfed](https://github.com/pixelfed/pixelfed/blob/dev/public/img/pixelfed-icon-black.svg)
@@ -61,6 +63,7 @@
 - [spotify](https://simpleicons.org/?q=spotify)
 - [stackoverflow](https://simpleicons.org/?q=stackoverflow)
 - [steam](https://simpleicons.org/?q=Steam)
+- [strava](https://simpleicons.org/?q=strava)
 - [telegram](https://simpleicons.org/?q=telegram)
 - [threema](https://simpleicons.org/?q=threema)
 - [tryhackme](https://simpleicons.org/?q=tryhackme)
