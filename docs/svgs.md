@@ -59,6 +59,7 @@
 - [polywork](https://simpleicons.org/?q=polywork)
 - [reddit](https://simpleicons.org/?q=reddit)
 - [researchgate](https://simpleicons.org/?q=researchgate)
+- [revolut](https://simpleicons.org/?q=revolut)
 - [signal](https://simpleicons.org/?q=signal)
 - [slack](https://simpleicons.org/?q=slack)
 - [soundcloud](https://simpleicons.org/?q=soundcloud)
