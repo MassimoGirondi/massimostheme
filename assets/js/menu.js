@@ -20,3 +20,10 @@ menuTrigger &&
   );
 
 window.addEventListener("resize", isMobileMenu);
+
+const logo = document.querySelector(".logo__pathname");
+if(logo){
+  window.onload = () => {
+    logo.textContent += window.location.pathname.substring(1);
+  };
+}
