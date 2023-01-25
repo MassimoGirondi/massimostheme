@@ -24,6 +24,7 @@ window.addEventListener("resize", isMobileMenu);
 const logo = document.querySelector(".logo__pathname");
 if(logo){
   window.onload = () => {
-    logo.textContent += window.location.pathname.substring(1);
+    const path = window.location.pathname.substring(1);
+    logo.textContent += path.substring(0,path.indexOf('/'));
   };
 }
