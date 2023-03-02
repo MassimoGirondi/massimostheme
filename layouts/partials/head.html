@@ -70,3 +70,8 @@
 {{- if .Site.GoogleAnalytics }}
     {{ template "_internal/google_analytics.html" . }}
 {{- end}}
+
+<!-- Plausible.io -->
+{{- if $.Site.Params.plausible }}
+    <script defer data-domain="{{ .Site.Params.plausible }}" src="https://plausible.io/js/script.js"></script>
+{{- end}}
