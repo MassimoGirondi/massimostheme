@@ -72,6 +72,6 @@
 {{- end}}
 
 <!-- Plausible.io -->
-{{- if $.Site.Params.plausible }}
-    <script defer data-domain="{{ .Site.Params.plausible }}" src="https://plausible.io/js/script.js"></script>
+{{- if $.Site.Params.plausibleDataDomain }}
+    <script defer data-domain="{{ .Site.Params.plausibleDataDomain }}" src="{{ .Site.Params.plausibleScriptSource }}"></script>
 {{- end}}
