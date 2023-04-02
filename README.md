@@ -85,6 +85,9 @@ paginate     = 10
 
   # Enable sharing buttons, if you like
   enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = true
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
