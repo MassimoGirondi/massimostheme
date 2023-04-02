@@ -35,11 +35,12 @@ This theme was highly inspired by the [hello-friend](https://github.com/panr/hug
 - Nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
 - An easy way to modify the theme with Hugo tooling
 - Fully responsive
-- Audio support for posts (thanks to [@talbotp](https://github.com/talbotp))
+- Support for audio in posts (thanks to [@talbotp](https://github.com/talbotp))
 - Builtin (enableable/disableable) multilanguage menu
 - Support for social icons
 - Support for sharing buttons
 - Support for [Commento](https://commento.io)
+- Support for [Plausible](https://plausible.io) (thanks to [@Joffcom](https://github.com/Joffcom))
 
 ## How to start
 
