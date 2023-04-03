@@ -32,6 +32,7 @@
 - [hackerone](https://simpleicons.org/?q=hackerone)
 - [hackerrank](https://simpleicons.org/?q=hackerrank)
 - [hackthebox](https://simpleicons.org/?q=hackthebox)
+- [imdb](https://simpleicons.org/?q=imdb)
 - [instagram](https://feathericons.com/?query=instagram)
 - [itch.io](https://simpleicons.org/?q=itch.io)
 - [jenkins](https://feathericons.com/?query=jenkins)
