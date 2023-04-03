@@ -9,6 +9,7 @@
 - [codesandbox](https://simpleicons.org/?q=codesandbox)
 - [codechef](https://simpleicons.org/?q=codechef)
 - [codepen](https://simpleicons.org/?q=codepen)
+- [cs:go](https://simpleicons.org/?q=counterstrike)
 - dev
 - [deviantart](https://simpleicons.org/?q=deviantart)
 - [discogs](https://simpleicons.org/?q=discogs)
