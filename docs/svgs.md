@@ -16,6 +16,7 @@
 - [discord](https://simpleicons.org/?q=discord)
 - [docker](https://simpleicons.org/?q=docker)
 - [dribbble](https://simpleicons.org/?q=dribbble)
+- [duolingo](https://simpleicons.org/?q=duolingo)
 - [email](https://feathericons.com/?query=mail)
 - [facebook](https://simpleicons.org/?q=facebook)
 - [facebook-messenger](https://simpleicons.org/?q=messenger)
