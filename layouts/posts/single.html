@@ -88,8 +88,13 @@
           {{ dateFormat "2006-01-02 15:04" .Date.Local }}
         {{ end }}
 
+        <!-- Here we want to check if the dates are the same.
+                The default eq between the dates woould check also the time. 
+                But we are ok with checking only the day. -->
         {{ if .Lastmod }} 
-          {{ if not (eq .Lastmod .Date )}}
+          {{ if not (eq (dateFormat .Site.Params.dateformNumTime .Lastmod.Local)
+          ( dateFormat .Site.Params.dateformNumTime .Date.Local) ) }}
+
             {{ if .Site.Params.dateformNumTime }}
               ({{ i18n "lastModified" }}: {{ dateFormat .Site.Params.dateformNumTime .Lastmod.Local }})
             {{ else }} 
@@ -99,6 +104,7 @@
         {{ end }}
       </p>
 
+      {{ if 0}}
       {{- if .GitInfo }}
         <p>
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-git-commit">
@@ -111,6 +117,7 @@
           @ {{ if .Site.Params.dateformNum }}{{ dateFormat .Site.Params.dateformNum .GitInfo.AuthorDate.Local }}{{ else }}{{ dateFormat "2006-01-02" .GitInfo.AuthorDate.Local }}{{ end }}
         </p>
       {{- end }}
+      {{ end }}
     </div>
 
     {{- if .Site.Params.EnableSharingButtons }}
