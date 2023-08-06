@@ -7,6 +7,13 @@
         {{ if .Content }}
             <div class="content">{{ .Content }}</div>
         {{ end }}
+        {{ if eq .Page.Title "Posts" }}
+        Or navigate by <a href=../tags/>Tags</a>
+        {{ else }}
+        {{ if eq .Page.Title "Tags" }}
+                Or navigate by <a href=../posts/>Posts</a>
+                {{end}}
+        {{ end }}
 
         {{ range $paginator.Pages.GroupByDate "2006" }}
             <div class="posts-group">
