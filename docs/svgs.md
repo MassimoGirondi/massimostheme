@@ -58,6 +58,7 @@
 - [peertube](https://simpleicons.org/?q=peertube)
 - [pinterest](https://simpleicons.org/?q=pinterest)
 - [pixelfed](https://github.com/pixelfed/pixelfed/blob/dev/public/img/pixelfed-icon-black.svg)
+- [pleroma](https://simpleicons.org/?q=pleroma)
 - [podcasts-apple](https://simpleicons.org/?q=podcast)
 - [podcasts-google](https://simpleicons.org/?q=podcast)
 - [polywork](https://simpleicons.org/?q=polywork)
