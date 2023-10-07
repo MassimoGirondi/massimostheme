@@ -102,10 +102,12 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "Hello Friend NG"
-    subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
+
+  [languages.en.params]
+    subtitle  = "A simple theme for Hugo"
 
     [languages.en.params.logo]
       logoText = "hello friend ng"
