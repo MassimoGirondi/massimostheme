@@ -37,3 +37,8 @@ other = "{{ .Count }} Kelime"
 
 [lastModified]
 other = "Son güncelleme"
+
+# partials/pagination-list.html
+[pagination]
+newerPosts = "Daha yeni girişler"
+olderPosts = "Eski girişler"
