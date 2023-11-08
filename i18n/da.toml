@@ -32,7 +32,7 @@ other = "{{ .Count }} minutter"
 other = "Indholdsfortegnelse"
 
 [wordCount]
-one   = "Ét ord"
+one   = "Ét Ord"
 other = "{{ .Count }} Ord"
 
 [lastModified]
