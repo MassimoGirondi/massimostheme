@@ -156,6 +156,42 @@ disableHugoGeneratorInject = false
   # [params.commento]
   #   url = ""
 
+  # Utteranc.es is a lightweight comments widget built on GitHub issues.
+  # See https://utteranc.es/ for documentation
+  # Uncomment this to enable Utteranc.es.
+  #
+  # [params.utterances]
+  #   Your GitHub repository
+  #
+  #   repository = ""
+
+  #   label used for GitHub issues
+  #
+  #   label      = ""
+
+  #   Blog Post <-> Issue mapping. This parameter is optional. Possible values are:
+  #      - pathname
+  #      - url
+  #      - title
+  #      - og:title
+  #      - issue number
+  #      - specific term
+  #
+  #   issueTerm  = ""
+
+  #   Theme used: possible values are:
+  #      - github-light
+  #      - github-dark
+  #      - preferred-color-scheme
+  #      - github-dark-orange
+  #      - icy-dark
+  #      - dark-blue
+  #      - photon-dark
+  #      - boxy-light
+  #      - gruvbox-dark
+  #
+  #   theme      = ""
+
   # Uncomment this if you want a portrait on your start page
   #
   # [params.portrait]
