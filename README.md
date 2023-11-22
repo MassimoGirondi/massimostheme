@@ -41,6 +41,7 @@ This theme was highly inspired by the [hello-friend](https://github.com/panr/hug
 - Support for sharing buttons
 - Support for [Commento](https://commento.io)
 - Support for [Plausible](https://plausible.io) (thanks to [@Joffcom](https://github.com/Joffcom))
+- Support for [utterances](https://utteranc.es/) comment system
 
 ## How to start
 
