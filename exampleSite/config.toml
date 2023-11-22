@@ -36,9 +36,6 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[author]
-  name = "Jane Doe"
-
 [blackfriday]
   hrefTargetBlank = true
 
@@ -48,6 +45,9 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
+  [params.author]
+    name = "Jane Doe"
+
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -145,6 +145,19 @@ disableHugoGeneratorInject = false
     # Append the current url pathname to logoText 
     # logoCursorPathname = true
 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # Addon: Startpage portrait 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  # Uncomment this if you want a portrait on your start page
+  #
+  # [params.portrait]
+  #   path     = "/img/image.jpg"
+  #   alt      = "Portrait"
+  #   maxWidth = "50px"
+
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # Addon: Commento
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Commento is more than just a comments widget you can embed — 
   # it’s a return to the roots of the internet. 
   # An internet without the tracking and invasions of privacy. 
@@ -156,6 +169,9 @@ disableHugoGeneratorInject = false
   # [params.commento]
   #   url = ""
 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # Addon: Utteranc.es
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Utteranc.es is a lightweight comments widget built on GitHub issues.
   # See https://utteranc.es/ for documentation
   # Uncomment this to enable Utteranc.es.
@@ -164,11 +180,11 @@ disableHugoGeneratorInject = false
   #   Your GitHub repository
   #
   #   repository = ""
-
+  #
   #   label used for GitHub issues
   #
   #   label      = ""
-
+  # 
   #   Blog Post <-> Issue mapping. This parameter is optional. Possible values are:
   #      - pathname
   #      - url
@@ -178,7 +194,7 @@ disableHugoGeneratorInject = false
   #      - specific term
   #
   #   issueTerm  = ""
-
+  #
   #   Theme used: possible values are:
   #      - github-light
   #      - github-dark
@@ -191,15 +207,12 @@ disableHugoGeneratorInject = false
   #      - gruvbox-dark
   #
   #   theme      = ""
+  # 
 
-  # Uncomment this if you want a portrait on your start page
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # Addon: Social icons
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
-
-  # Social icons
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/"
