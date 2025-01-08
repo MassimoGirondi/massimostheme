@@ -129,7 +129,7 @@
 
     {{ partial "pagination-single.html" . }}
 
-    {{ if .Site.DisqusShortname }}
+    {{ if .Site.Params.DisqusShortname }}
       {{ if not (eq .Params.Comments "false") }}
         <div id="comments">
           {{ template "_internal/disqus.html" . }}
